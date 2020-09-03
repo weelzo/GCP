@@ -1,3 +1,3 @@
 # GCP
-In this reposotiry i'm trying to show off my progress in cloud field specially in GCP
+In this repository, I'm trying to show off my progress in the cloud field especially in GCP.
 
