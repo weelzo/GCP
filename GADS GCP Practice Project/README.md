@@ -1,4 +1,4 @@
-#The challenge
+# The Challenge
 
 1-The Cloud challenge is divided in two parts:
 
